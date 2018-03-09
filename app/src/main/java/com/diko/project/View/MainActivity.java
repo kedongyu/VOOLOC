@@ -8,7 +8,7 @@ import com.diko.basemodule.Essential.BaseTemplate.BaseActivity;
 import com.diko.project.R;
 
 public class MainActivity extends BaseActivity {
-
+    int a=2;
     @Override
     public int getLayoutId() {
         return R.layout.activity_main;
